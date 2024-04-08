@@ -1,2 +1,5 @@
-# streamlit-template
-A base template for deploying streamlit applications to Streamlit community cloud.
+# Streamlit App Name
+
+App documentation goes here.........
+
+Customize the `README.md` file using the [Markdown](https://www.markdownguide.org/) language.
